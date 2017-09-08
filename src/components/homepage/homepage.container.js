@@ -2,7 +2,7 @@ import {connect} from 'react-redux';
 import {compose, lifecycle} from 'recompose';
 import {Homepage} from './homepage';
 import {scrollPositionChange, toogle3d} from './homepage.action';
-import Konami from 'fberthelot.konami-code.js';
+import Konami from 'konami-code.js';
 
 const mapDispatchToProps = dispatch => ({
   updateScrollPosition: position => dispatch(scrollPositionChange(position)),
