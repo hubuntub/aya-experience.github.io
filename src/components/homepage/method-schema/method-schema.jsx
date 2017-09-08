@@ -16,7 +16,7 @@ export const MethodSchemaComponent = ({isDisplayed3D}) => {
       </div>
       <div className="flakes_container_parralax">
         <div className="flakes_container">
-          <img className={Styles.schema} src="/assets/tmp_method_schema.png" alt="description of our method"/>
+          <img className={Styles.schema} src="/assets/tmp_method_schema-V2.png" alt="description of our method"/>
         </div>
       </div>
     </section>
