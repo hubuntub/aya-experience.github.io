@@ -13,7 +13,8 @@
   .header_background {
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    */background-color: black;*/
+     background-image: url(/assets/background/power.gif);
     transform: translate3d(0, 0, 0);
   }
 
