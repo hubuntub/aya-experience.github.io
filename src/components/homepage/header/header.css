@@ -30,17 +30,17 @@
   text-align: center;
 }
   .logo_img {
-    width: 18%;
+    width: 21%;
   }
 
 .description {
   width: 25%;
-  margin: 0 auto;
+  margin: 3% auto;
   font-weight: 300;
 }
 
 .tagline {
-  margin: 10px 0;
+  margin: 4% 0;
   text-align: center;
   font-weight: 300;
   text-transform: uppercase;
