@@ -9,7 +9,7 @@ export const MethodSchemaComponent = ({isDisplayed3D}) => {
 
       <div className="flakes_background">
         <img
-          src="/assets/background/road-snow.jpg"
+          src="/assets/background/ima.jpg"
           alt="mountain baground image"
           className="flakes_background_parralax_img"
           />
