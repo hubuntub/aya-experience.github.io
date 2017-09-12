@@ -63,10 +63,12 @@ export const CodeDesignComponent = ({
           </p>
         </div>
       </button>
-    </div>
-    <video width="100%" height="100%" controls="controls">
+      
+       <video width="100%" height="100%" controls="controls">
   <source src="/assets/background/Intel.mp4; " type="video/mp4">
 </video>
+    </div>
+   
   </section>
 );
 
