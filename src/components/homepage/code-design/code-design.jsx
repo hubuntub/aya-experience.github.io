@@ -15,11 +15,7 @@ export const CodeDesignComponent = ({
   isDisplayed3D
 }) => (
   <section ref={refFunc0} className={classNames('flakes_group_parralax', {paralax3d: isDisplayed3D}, Styles.section)}>
-    <img
-      src="/assets/background/building-link.jpg"
-      alt="mountain baground image"
-      className={classNames('flakes_background_parralax', 'flakes_background_parralax_img')}
-      />
+   
     <div className="flakes_container">
       <button
         onClick={e => {
@@ -68,6 +64,9 @@ export const CodeDesignComponent = ({
         </div>
       </button>
     </div>
+    <video width="100%" height="100%" controls="controls">
+  <source src="/assets/background/Intel.mp4; " type="video/mp4">
+</video>
   </section>
 );
 
