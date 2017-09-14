@@ -65,8 +65,8 @@ export const CodeDesignComponent = ({
       </button>
       
       
-      src="http://www.olyric.com/videos/Intel-SHORT.gif"
-      alt="mountain baground image"
+       <img src="http://www.olyric.com/videos/Intel-SHORT.gif"
+       alt=" CHANGE15:12 baground image"
       className={classNames('flakes_background_parralax', 'flakes_background_parralax_img')}
       />
     </div>
