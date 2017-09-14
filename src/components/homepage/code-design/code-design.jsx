@@ -64,9 +64,11 @@ export const CodeDesignComponent = ({
         </div>
       </button>
       
-       <video width="100%" height="100%" controls="controls">
-  <source src="/assets/background/Intel.mp4; " type="video/mp4">
-</video>
+      
+      src="http://www.olyric.com/videos/Intel-SHORT.gif"
+      alt="mountain baground image"
+      className={classNames('flakes_background_parralax', 'flakes_background_parralax_img')}
+      />
     </div>
    
   </section>
